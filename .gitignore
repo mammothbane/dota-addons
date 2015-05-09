@@ -1,6 +1,8 @@
+*
+!*/
 !.gitignore
 !cfg/autoexec.cfg
-!resource/flash3/images
+!resource/flash3/images/items/**
+!resource/flash3/images/spellicons/**
 !scripts/game_sounds_heroes
 !sounds/weapons/hero
-*
