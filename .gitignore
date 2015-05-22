@@ -6,4 +6,5 @@
 !resource/flash3/images/items/**
 !resource/flash3/images/spellicons/**
 !scripts/game_sounds_heroes
-!sounds/weapons/hero
+!sound/weapons/hero
+!sound/items/*
