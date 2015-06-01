@@ -2,7 +2,6 @@
 !*/
 !.gitignore
 !cfg/autoexec.cfg
-!cfg/config.cfg
 !resource/flash3/images/items/**
 !resource/flash3/images/spellicons/**
 !scripts/game_sounds_heroes
