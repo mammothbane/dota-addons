@@ -1,5 +1,5 @@
 *
-!*/ #whitelist directories
+!*/
 !.gitignore
 !cfg/quickexec.cfg
 !cfg/autoexec.cfg
