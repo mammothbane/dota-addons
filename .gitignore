@@ -1,6 +1,8 @@
 *
-!*/
+!*/ #whitelist directories
+!**/.gitignore
 !.gitignore
+!cfg/quickexec.cfg
 !cfg/autoexec.cfg
 !resource/flash3/images/items/**
 !resource/flash3/images/spellicons/**
